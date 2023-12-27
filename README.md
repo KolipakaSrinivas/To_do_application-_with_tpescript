@@ -1,1 +1,1 @@
-# To_do_application-_with_tpescript
+# To_do_application-_with_typescript
